@@ -5,9 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
-theme: jekyll-theme-minimal
-
 # Site Settings
 locale                   : "UK"
 title                    : "Andrew Spiers"
@@ -312,3 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# theme: jekyll-theme-minimal
+
+theme: jekyll-theme-minimal
