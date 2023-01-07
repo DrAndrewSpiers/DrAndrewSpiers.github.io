@@ -11,7 +11,8 @@ author_profile: true
 
 ## Invited talks:
 
- * 
+ * AEI Seminar (9/11/2022)
+ * 6th Meeting of the "Groupement de recherche" on Gravitational Waves in Toulouse, France (11/10/2022)
 
 ======
 ## Succesfully applied for talks:
