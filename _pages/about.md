@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage, here I provide exciting updates on my research where I model the curvature of space and time. 
+Welcome to my webpage, here I provide exciting updates on my research into how black holes curve space and time and the gravitational waves they produce. 
 
 How deep does the rabbit hole go?
 ======

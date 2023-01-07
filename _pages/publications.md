@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Please find my up to date list of publications on my [Inspire page](https://inspirehep.net/authors/1903091).
