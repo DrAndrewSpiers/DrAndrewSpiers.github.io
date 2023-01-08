@@ -16,9 +16,9 @@ redirect_from:
 I am a Research Fellow at the University of Nottingham. I am in the final stages of obtaining a PhD at the University of Southampton. My research interests include gravitational waves produced by astrophysical systems and how to model them in General Relativity and alternative theories of gravity. I have made significant progress towards modelling extreme-mass-ratio inspirals, a key source for LISA science. Specifically, I have formulated second-order self-force methods in Kerr and have a leading role in implementing a second-order Teukolsky scheme in Schwarzschild.
 
 
-#Occupation
+# Occupation
 
-* Reasearch Fellow (PostDoc) at the University of Nottingham, 2022-
+* Reasearch Fellow at the University of Nottingham, 2022-
 
 
 # Education
@@ -28,7 +28,7 @@ I am a Research Fellow at the University of Nottingham. I am in the final stages
 * Msci in Physics at Durham University 2013-2017 
 
 
-#Teaching, Outreach, and Organising Experience
+# Teaching, Outreach, and Organising Experience
   
 * Since December 2022, I am the co-chair of the Capra Equality, Diversity and Inclusion committee.
 
