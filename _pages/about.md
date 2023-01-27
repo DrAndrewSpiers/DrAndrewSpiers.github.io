@@ -18,4 +18,6 @@ In September 2022 I started a Research Associate role at the University of Notti
 
 I am also a visitor at the University of Illinois Urbana-Champaign, working with Prof. Nico Yunes, and will join his group to start a Postdoc in 2024.
 
-
+Podcast with acaudio!
+======
+For a bitesized introduction to my research lsiten to me talk to acaudio: [podcast link](https://acaudio.com/publication/3468). 
