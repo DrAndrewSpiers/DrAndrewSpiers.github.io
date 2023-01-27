@@ -20,4 +20,4 @@ I am also a visitor at the University of Illinois Urbana-Champaign, working with
 
 Podcast with acaudio!
 ======
-For a bitesized introduction to my research lsiten to me talk to acaudio: [podcast link](https://acaudio.com/publication/3468). 
+For a bitesized introduction to my research listen to me talk to acaudio: [podcast link](https://acaudio.com/publication/3468). 
