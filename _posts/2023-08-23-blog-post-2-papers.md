@@ -1,7 +1,7 @@
 ---
 title: 'Opening up second-order black hole perturbation theory with two papers and Mathematica resources'
 date: 2023-08-07
-permalink: /posts/2012/08/blog-post-2/
+permalink: /posts/2012/08/blog-post-2-papers/
 tags:
   - cool posts
   - category1
