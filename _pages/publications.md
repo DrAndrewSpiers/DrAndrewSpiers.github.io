@@ -11,4 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-Please find an up to date list of my publications on my [Inspire page](https://inspirehep.net/authors/1903091).
+Please find an up-to-date list of my publications on my [Inspire page](https://inspirehep.net/authors/1903091).
