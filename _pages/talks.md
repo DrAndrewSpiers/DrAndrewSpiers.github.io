@@ -21,11 +21,11 @@ author_profile: true
  * Capra 2023, The Niels Bohr Institute in The University of Copenhagen, Denmark
  * APS April Meeting, Minneapolis, USA
  * Capra 2022, University College Dublin, Ireland
- * Capra 2021, Perimeter Institute, Canada [pirsa link](https://pirsa.org/21060039)
+ * Capra 2021, Perimeter Institute, Canada, [pirsa link](https://pirsa.org/21060039)
  * BHIO2021 (poster session)
  * BritGrav21, University College Dublin, Ireland
- * 13th International LISA Symposium (2020) [youtube link](https://youtu.be/7d0PglrL\_yg)
- * Capra 2020, The University of Texas Austin, USA [youtube link](https://youtu.be/7d0PglrL_yg)
+ * 13th International LISA Symposium (2020), [youtube link](https://youtu.be/7d0PglrL\_yg)
+ * Capra 2020, The University of Texas Austin, USA, [youtube link](https://youtu.be/7d0PglrL_yg)
  * GR22 (2019), Valencia, Spain
 
 ## Additional talks:
