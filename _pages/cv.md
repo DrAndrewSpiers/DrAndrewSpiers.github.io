@@ -30,7 +30,7 @@ I am a Research Fellow at the University of Nottingham. I am in the final stages
 
 ## Teaching, Outreach, and Organising Experience
   
-* Since December 2022, I am the co-chair of the Capra Equality, Diversity and Inclusion committee.
+* In 2023, I was the co-chair of the Capra Equality, Diversity and Inclusion committee.
 
 * During my PhD, I have had regular teaching responsibilities in maths, engineering, and physics courses, including assisting seminar leaders, one-to-one guided learning, and marking coursework.
 

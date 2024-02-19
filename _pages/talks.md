@@ -11,9 +11,10 @@ author_profile: true
 
 ## Invited talks:
 
+ * Black Holes: from the Universe to the Lab Workshop, Nottingham (12/2/2024)
+ * “Asymmetric binaries meet fundamental astro-physics”, Gran Sasso Science Institute, Italy, (21/9/2023).
  * AEI Seminar (9/11/2022)
  * 6th Meeting of the "Groupement de recherche" on Gravitational Waves in Toulouse, France (11/10/2022)
- * “Asymmetric binaries meet fundamental astro-physics”, at the Gran Sasso Science Institute, in L’Aquila, Italy, from 20 to 22 September 2023.
 
 
 ## Succesfully applied for talks:
@@ -29,4 +30,6 @@ author_profile: true
  * GR22 (2019), Valencia, Spain
 
 ## Additional talks:
+
+ * University of Oxford, BIPAC, (16/02/2024)
  * The University of Chicago, Department of Physics, Prof. Robert Wald's group (13/04/2023)
