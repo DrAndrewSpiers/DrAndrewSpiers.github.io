@@ -16,7 +16,7 @@ From 2018-2022, I completed my PhD at the University of Southampton in modelling
 
 In September 2022 I started a Research Associate role at the University of Nottingham, where I work on modelling binaries in alternative theories of gravity with Prof. Thomas Sotiriou and his group.
 
-I am also a visitor at the University of Illinois Urbana-Champaign, working with Prof. Nico Yunes, and will join his group to start a Postdoc in 2024.
+In my work I model the gravitational waves that origionate from binary black hole systems using black hole perturbation theory. The flexibility of black hole perturbation theory allows us to model binaries in theories beyond General Relativity and investigate the quasi-normal mode ringdown after merger.
 
 Podcast with acaudio!
 ======
