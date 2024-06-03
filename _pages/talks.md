@@ -11,14 +11,17 @@ author_profile: true
 
 ## Invited talks:
 
- * Black Holes: from the Universe to the Lab Workshop, Nottingham (12/2/2024)
- * “Asymmetric binaries meet fundamental astro-physics”, Gran Sasso Science Institute, Italy, (21/9/2023).
- * AEI Seminar (9/11/2022)
- * 6th Meeting of the "Groupement de recherche" on Gravitational Waves in Toulouse, France (11/10/2022)
+ * Fundamental Physics Meets Waveform With LISA workshop, AEI, Potsdam, Germany (4/9/2024)
+ * Black Holes: from the Universe to the Lab Workshop, Nottingham, UK (12/2/2024)
+ * “Asymmetric binaries meet fundamental astro-physics”, Gran Sasso Science Institute, Italy (21/9/2023)
+ * AEI Seminar, Potdam, Germany (9/11/2022)
+ * 6th Meeting of the "Groupement de recherche" on Gravitational Waves, Toulouse, France (11/10/2022)
 
 
 ## Succesfully applied for talks:
 
+ * Capra 27, Singapore (18/6/2024)
+ * Gravity: Challenges Beyond General Relativit, ICCUB, Barcelona, Spain (23/5/2024)
  * Capra 2023, The Niels Bohr Institute in The University of Copenhagen, Denmark
  * APS April Meeting, Minneapolis, USA
  * Capra 2022, University College Dublin, Ireland
@@ -28,6 +31,7 @@ author_profile: true
  * 13th International LISA Symposium (2020), [youtube link](https://youtu.be/7d0PglrL\_yg)
  * Capra 2020, The University of Texas Austin, USA, [youtube link](https://youtu.be/7d0PglrL_yg)
  * GR22 (2019), Valencia, Spain
+
 
 ## Additional talks:
 
