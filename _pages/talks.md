@@ -20,16 +20,17 @@ author_profile: true
 
 ## Succesfully applied for talks:
 
+ * The 15th International LISA Symposium, Dublin, Ireland (9/7/2024)
  * Capra 27, Singapore (18/6/2024)
  * Gravity: Challenges Beyond General Relativit, ICCUB, Barcelona, Spain (23/5/2024)
- * Capra 2023, The Niels Bohr Institute in The University of Copenhagen, Denmark
+ * Capra 26, The Niels Bohr Institute in The University of Copenhagen, Denmark
  * APS April Meeting, Minneapolis, USA
- * Capra 2022, University College Dublin, Ireland
- * Capra 2021, Perimeter Institute, Canada, [pirsa link](https://pirsa.org/21060039)
- * BHIO2021 (poster session)
+ * Capra 25, University College Dublin, Ireland
+ * Capra 24, Perimeter Institute, Canada, [pirsa link](https://pirsa.org/21060039)
+ * BHIO2021, online (poster session)
  * BritGrav21, University College Dublin, Ireland
  * 13th International LISA Symposium (2020), [youtube link](https://youtu.be/7d0PglrL\_yg)
- * Capra 2020, The University of Texas Austin, USA, [youtube link](https://youtu.be/7d0PglrL_yg)
+ * Capra 23, The University of Texas Austin, USA
  * GR22 (2019), Valencia, Spain
 
 
@@ -37,3 +38,4 @@ author_profile: true
 
  * University of Oxford, BIPAC, (16/02/2024)
  * The University of Chicago, Department of Physics, Prof. Robert Wald's group (13/04/2023)
+ * Southampton String Postgraduate Seminar (2020)
