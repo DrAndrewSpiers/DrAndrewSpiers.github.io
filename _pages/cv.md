@@ -13,8 +13,7 @@ redirect_from:
 
 ## Personal Profile
 
-I am a Research Fellow at the University of Nottingham. I am in the final stages of obtaining a PhD at the University of Southampton. My research interests include gravitational waves produced by astrophysical systems and how to model them in General Relativity and alternative theories of gravity. I have made significant progress towards modelling extreme-mass-ratio inspirals, a key source for LISA science. Specifically, I have formulated second-order self-force methods in Kerr and have a leading role in implementing a second-order Teukolsky scheme in Schwarzschild.
-
+I am a Research Fellow at the University of Nottingham and PhD graduate from the University of Southampton. I develop methods in black hole perturbation theory to tackle self-force and quasi-normal mode problems in general relativity and alternative theories of gravity. My endeavour is to be a world leader in producing models for waveform templates used in future gravitational wave data analysis.
 
 ## Occupation
 
