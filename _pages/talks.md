@@ -11,6 +11,7 @@ author_profile: true
 
 ## Invited talks:
 
+ * Workshop: Approaches to 2nd Order Gravitational Self-Force in Kerr, Lipzig, Germany (30/1/2025)
  * Fundamental Physics Meets Waveform With LISA workshop, AEI, Potsdam, Germany (4/9/2024)
  * Black Holes: from the Universe to the Lab Workshop, Nottingham, UK (12/2/2024)
  * “Asymmetric binaries meet fundamental astro-physics”, Gran Sasso Science Institute, Italy (21/9/2023)
