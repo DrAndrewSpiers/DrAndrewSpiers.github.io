@@ -12,12 +12,13 @@ Welcome to my webpage, here I provide exciting updates on my research into how b
 
 How deep does the rabbit hole go?
 ======
-From 2018-2022, I completed my PhD at the University of Southampton in modelling black hole binaries under the supervision of Dr. Adam Pound. To read a summary of my research there, please read my [Blog Post](https://drandrewspiers.github.io//posts/2012/08/blog-post-2/). 
+From 2018-2022, I completed my PhD at the University of Southampton under the supervision of Dr. Adam Pound. My thesis was in modelling black hole binaries using black hole perturbation theory. To read a summary of my research there, please read my [Blog Post](https://drandrewspiers.github.io//posts/2012/08/blog-post-2/). 
 
-In September 2022 I started a Research Associate role at the University of Nottingham, where I work on modelling binaries in alternative theories of gravity with Prof. Thomas Sotiriou and his group.
+From 2022-2025 I was a Research Fellow at the University of Nottingham with Prof. Thomas Sotiriou and the Nottingham Centre of Gravity. There I expanded my expertise by applying black hole binary modelling techniques to alternative theories of gravity to general relativity.
 
-In my work I model the gravitational waves that origionate from binary black hole systems using black hole perturbation theory. The flexibility of black hole perturbation theory allows us to model binaries in theories beyond General Relativity and investigate the quasi-normal mode ringdown after merger.
+In October 2025, I began a Marie Skłodowska-Curie postdoctoral fellowship, under the mentorship of Dr. Niels Warburton. I continue to work on the cutting edge of black hole binary modelling using perturbation theory, both in general relativity and alternative theories of gravity.
 
-Podcast with acaudio!
-======
-For a bitesized introduction to my research listen to me talk to acaudio: [podcast link](https://acaudio.com/publication/3468). 
+
+
+
+
