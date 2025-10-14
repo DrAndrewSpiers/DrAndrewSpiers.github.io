@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (summary, please contact for full CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,11 +13,13 @@ redirect_from:
 
 ## Personal Profile
 
-I am a Research Fellow at the University of Nottingham and PhD graduate from the University of Southampton. I develop methods in black hole perturbation theory to tackle self-force and quasi-normal mode problems in general relativity and alternative theories of gravity. My endeavour is to be a world leader in producing models for waveform templates used in future gravitational wave data analysis.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin. I have a PhD in Applied Mathematics from the University of Southampton. I model astrophysical systems, such as black hole binaries, and the gravitational waves they produce. I am an expert in developing methods in black hole perturbation theory to tackle self-force and quasi-normal mode problems in general relativity and alternative theories of gravity.
 
 ## Occupation
 
-* Reasearch Fellow at the University of Nottingham, 2022-
+* Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin, 2025-
+
+* Reasearch Fellow at the University of Nottingham, 2022-2025
 
 
 ## Education
@@ -42,4 +44,6 @@ I am a Research Fellow at the University of Nottingham and PhD graduate from the
 * In 2018 I assisted a physics class at Richard Taunton Sixth Form College, where I discussed the experience of studying physics at university with potential future students. 
 
 * I am a member of the LISA Consortium.
+
+* I co-coordinate a project within the LISA Consortium, organising a team of 15 researchers.
 
