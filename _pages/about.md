@@ -16,11 +16,11 @@ From 2018-2022, I completed my PhD at the University of Southampton under the su
 
 From 2022-2025 I was a Research Fellow at the University of Nottingham with Prof. Thomas Sotiriou and the Nottingham Centre of Gravity. There I expanded my expertise by applying black hole binary modelling techniques to alternative theories of gravity to general relativity.
 
-In October 2025, I began a Marie Skłodowska-Curie postdoctoral fellowship, under the mentorship of Dr. Niels Warburton. I continue to work on the cutting edge of black hole binary modelling using perturbation theory, both in general relativity and alternative theories of gravity.
+In October 2025, I began a Marie Skłodowska-Curie Postdoctoral Fellowship, under the mentorship of Dr. Niels Warburton. I continue to work on the cutting edge of black hole binary modelling using perturbation theory, both in general relativity and alternative theories of gravity.
 
 <figure>
   <img src="{{ '/images/present.jpg' | relative_url }}" alt="present.jpg">
-  <figcaption>Presentation at Mathematical Methods for the General Relativistic Two-body Problem, Institute for Mathematical Sciences, National University of Singapore, Singapore (12/8/2025).</figcaption>
+  <figcaption>Invited talk at the Mathematical Methods for the General Relativistic Two-body Problem workshop, Institute for Mathematical Sciences, National University of Singapore, Singapore (12/8/2025).</figcaption>
 </figure>
 
 
