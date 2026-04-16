@@ -11,6 +11,10 @@ author_profile: true
 
 ## Invited talks:
 
+ * GWSISSA Seminar, SISSA, Trieste, Italy (26/3/2026)
+ * Strong group seminar, Niels Bohr Institute, Copenhagen, Denmark (28/8/2025)
+ * Mathematical Methods for the General Relativistic Two-body Problem, Institute for Mathematical Sciences, National University of Singapore, Singapore (12/8/2025)
+ * CENTRA Seminar, CENTRA,  Instituto Superior Técnico, Lisbon (29/5/2025)
  * Workshop: Approaches to 2nd Order Gravitational Self-Force in Kerr, Lipzig, Germany (30/1/2025)
  * Fundamental Physics Meets Waveform With LISA workshop, AEI, Potsdam, Germany (4/9/2024)
  * Black Holes: from the Universe to the Lab Workshop, Nottingham, UK (12/2/2024)
@@ -21,6 +25,8 @@ author_profile: true
 
 ## Succesfully applied for talks:
 
+ * Capra 2025, Southampton, UK (23/7/2025)
+ * GR 24/Amaldi 16 conference, Glasgow, UK (14/7/2025)
  * The 15th International LISA Symposium, Dublin, Ireland (9/7/2024)
  * Capra 27, Singapore (18/6/2024)
  * Gravity: Challenges Beyond General Relativit, ICCUB, Barcelona, Spain (23/5/2024)
@@ -37,6 +43,7 @@ author_profile: true
 
 ## Additional talks:
 
+ * Nonlinear Black Hole Perturbation Theory: Merging Black Holes, Communities and Ideas, Nottingham, UK (15/9/2025)
  * University of Oxford, BIPAC, (16/02/2024)
  * The University of Chicago, Department of Physics, Prof. Robert Wald's group (13/04/2023)
  * Southampton String Postgraduate Seminar (2020)
