@@ -82,16 +82,17 @@ analytics:
 author:
   name             : "Dr Andrew Spiers"
   avatar           : "profile.jpeg"
-  bio              : "I am a Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin. My research revolves around modelling gravitational wave sources."
-  location         : "University College Dublin"
+  bio: "I am a Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin. My research revolves around modelling gravitational wave sources.<br><br><img src='/images/eu_funded_en.jpg' alt='EU Funded'>"  location         : "University College Dublin"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Lby2F38AAAAJ&hl=en&oi=sra"
   email            : "andrew.spiers@ucd.ie"
   github           : "DrAndrewSpiers"
   orcid            : "https://orcid.org/0000-0003-0222-7578"
   researchgate     : "https://www.researchgate.net/profile/Andrew-Spiers-2"
   iNSPIRE          : "https://inspirehep.net/authors/1903091"
-  tiktok           : "https://www.tiktok.com/@physicspaced"
-  funding          : "eu_funded_en.jpg"
+  links:
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@physicspaced"
 
 
 # Reading Files
