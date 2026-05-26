@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "UK"
-title                    : "Andrew Spiers"
+title                    : "Dr Andrew Spiers"
 title_separator          : "-"
-name                     : &name "Andrew Spiers"
+name                     : &name "Dr Andrew Spiers"
 description              : &description "Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin. I model black hole binaries and the gravitational waves they produce."
 url                      : https://drandrewspiers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Andrew Spiers"
+  name             : "Dr Andrew Spiers"
   avatar           : "profile.jpeg"
   bio              : "I am a Marie Skłodowska-Curie Postdoctoral Fellow at University College Dublin. My research revolves around modelling gravitational wave sources."
   location         : "University College Dublin"
@@ -90,6 +90,8 @@ author:
   orcid            : "https://orcid.org/0000-0003-0222-7578"
   researchgate     : "https://www.researchgate.net/profile/Andrew-Spiers-2"
   iNSPIRE          : "https://inspirehep.net/authors/1903091"
+  tiktok           : "https://www.tiktok.com/@physicspaced"
+  funding          : "eu_funded_en.jpg"
 
 
 # Reading Files
